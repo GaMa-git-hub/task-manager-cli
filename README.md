@@ -9,14 +9,14 @@ Currently developed as a **Command-Line Interface (CLI)** app.
 
 ### 📌 Features
 
-#### ✅ Version 1.0 – CLI:
+####  Version 1.0 – CLI:
 - Add tasks
 - View tasks
 - Mark tasks as done
 - Delete tasks
 - Save/load tasks from a file (local storage)
 
-#### ⏳ Version 2.0 – GUI (Planned):
+####  Version 2.0 – GUI :
 - User-friendly GUI using Tkinter
 - Task management via buttons
 - Persistent storage
