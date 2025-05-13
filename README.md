@@ -2,8 +2,8 @@
 A Python-based To-Do List application starting with a command-line interface (CLI) and later upgraded to a GUI (Tkinter) version. Versioned from CLI (v1.0) to GUI (v2.0).
 # 📝 To-Do List Application
 
-A Python-based To-Do List application to manage daily tasks.  
-Currently developed as a **Command-Line Interface (CLI)** app.
+A Python-based To-Do List application to manage daily tasks.
+Initially developed as a Command-Line Interface (CLI) app, with plans for an upgrade to a Graphical User Interface (GUI).
 
 ---
 
